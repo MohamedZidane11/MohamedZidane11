@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **PyQt5, Django, SQL**
 
-- 👯 I’m looking to collaborate with **anyone who needs my help as much as i can**
+- 👯 I’m looking to collaborate with **other developers on any projects**
 
 - 🤝 I’m looking for help with **sharping my skills and internship**
 
