@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+###Hi there  👋
 **MohamedZidane11/MohamedZidane11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Mohamed Zidane</h1>
+<h1 align="center">Hi there 👋, I'm Mohamed Zidane</h1>
 <h3 align="center">A passionate Python developer from Egypt 🇪🇬 </h3>
 
 <br>
