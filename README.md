@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mohamed Zidane</h1>
-<h3 align="center">A passionate Python developer from Egypt</h3>
+<h3 align="center">A passionate Python developer from Egypt 🇪🇬 </h3>
 
 - 🔭 I’m currently working on **a Files & Youtube Downloader**
 
