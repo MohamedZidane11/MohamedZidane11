@@ -14,15 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Mohamed Zidane</h1>
-<h3 align="center">A passionate Python developer from Egypt 🇪🇬 </h3>
+<h1 align="center">Hi there 👋, I'm Mohamed Zidane </h1>
+<h3 align="center">A self-taught passionate Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt 🇪🇬 </h3>
 
 <br>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=MohamedZidane11&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" />
 
 <br>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 - 🔭 I’m currently working on **a Files & Youtube Downloader**
 
@@ -41,12 +45,27 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="#" target="blank"><img align="center"
+      src="https://s3.gifyu.com/images/icons8-linkedin-circled.gif"
+      alt="MohamedZidane11" height="40" width="40" /></a>
+  <a href="#" target="blank"><img align="center"
+      src="https://s9.gifyu.com/images/icons8-facebook-circled.gif"
+      alt="MohamedZidane11" height="40" width="40" /></a>
+  <a href="#" target="blank"><img align="center"
+      src="https://s9.gifyu.com/images/icons8-github.gif"
+      alt="MohamedZidane11" height="40" width="40" /></a>
+</p>
+
+<!-- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="MohamedZidane11" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="MohamedZidane11" height="30" width="40" /></a>
 </p>
+-->
 
 <br>
 
@@ -74,4 +93,3 @@ Here are some ideas to get you started:
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZidane11&theme=monokai&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="MohamedZidane11" /></p>
-
