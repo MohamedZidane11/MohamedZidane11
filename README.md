@@ -50,6 +50,9 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/mohamed.zidane.1654/" target="blank"><img align="center"
       src="https://img.icons8.com/?size=96&id=CtrV2SV33rD9&format=gif"
       alt="MohamedZidane11" height="40" width="40" /></a>
+  <a href="mohamedzidane11@gmail.com" target="blank"><img align="center"
+      src="https://img.icons8.com/?size=80&id=PyTSIJZVXnpz&format=gif"
+      alt="MohamedZidane11" height="40" width="40" /></a>
   <a href="https://github.com/MohamedZidane11" target="blank"><img align="center"
       src="https://s9.gifyu.com/images/icons8-github.gif"
       alt="MohamedZidane11" height="40" width="40" /></a>
