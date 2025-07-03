@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-zidane-8884b7264" target="blank"><img align="center"
-      src="https://s3.gifyu.com/images/icons8-linkedin-circled.gif"
+      src="https://img.icons8.com/?size=96&id=TpMqKvVFD9pP&format=gif"
       alt="MohamedZidane11" height="40" width="40" /></a>
   <a href="https://www.facebook.com/mohamed.zidane.1654/" target="blank"><img align="center"
       src="https://s9.gifyu.com/images/icons8-facebook-circled.gif"
