@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Mohamed Zidane </h1>
-<h3 align="center">A self-taught passionate Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt 🇪🇬 </h3>
+<h3 align="center">A self-taught passionate <img src="https://img.icons8.com/?size=96&id=Rc0Xn5AtE8kX&format=gif" width="30"> Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt 🇪🇬 </h3>
 
 <br>
 
