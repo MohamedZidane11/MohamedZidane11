@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm <span style="color:blue;font-family:"Fantasy"">Mohamed Zidane</span> </h1>
+<h1 align="center">Hi there 👋, I'm <span>Mohamed Zidane</span> </h1>
 <h3 align="center">A self-taught passionate <img src="https://img.icons8.com/?size=96&id=Rc0Xn5AtE8kX&format=gif" width="30"> Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt 🇪🇬 </h3>
 
 <br>
