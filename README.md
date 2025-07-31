@@ -110,5 +110,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedZidane11&repo=water-filter-website)](https://github.com/MohamedZidane11/water-filter-website.git)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedZidane11&repo=employee-management-system)](https://github.com/MohamedZidane11/employee-management-system)
 <br>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZidane11&theme=monokai&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="MohamedZidane11" /></p> -->
