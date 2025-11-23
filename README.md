@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on **a Files & Youtube Downloader**
+- 🔭 I’m currently working on **an ai news platform**
 
-- 🌱 I’m currently learning **PyQt5, Django, SQL**
+- 🌱 I’m currently learning **JavaScript, React JS, Node JS**
 
-- 👯 I’m looking to collaborate with **other developers on any projects**
+- 👯 I’m looking to collaborate with **other developers on any open projects**
 
-- 🤝 I’m looking for help with **sharping my skills and internship**
+- 🤝 I’m looking for help with **sharping my skills and internship with others**
 
 - 📫 How to reach me **mohamedzidane11@gmail.com**
 
