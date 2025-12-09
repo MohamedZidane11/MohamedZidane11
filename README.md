@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm <span>Mohamed Zidane</span> </h1>
-<h3 align="center"><img src="https://img.icons8.com/?size=96&id=Rc0Xn5AtE8kX&format=gif" width="30">A python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt 🇪🇬 </h3>
+<h3 align="center">A Javascript<img src="https://img.icons8.com/?size=96&id=Rc0Xn5AtE8kX&format=gif" width="30">python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt 🇪🇬 </h3>
 
 <br>
 
@@ -26,19 +26,21 @@ Here are some ideas to get you started:
 
 <br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+- 🔭 I'm currently working on **an ai news platform**
 
-- 🔭 I’m currently working on **an ai news platform**
+- 🌱 I'm currently learning **JavaScript, React JS, Node JS**
 
-- 🌱 I’m currently learning **JavaScript, React JS, Node JS**
+- 👯 I'm looking to collaborate on **other developers on any open projects**
 
-- 👯 I’m looking to collaborate with **other developers on any open projects**
+- 🤝 I'm looking for help with **sharping my skills and internship with others**
 
-- 🤝 I’m looking for help with **sharping my skills and internship with others**
+- 💬 Ask me about **React, Node JS, Web Development**
 
 - 📫 How to reach me **mohamedzidane11@gmail.com**
 
-- ⚡ Fun fact :- Life is either a daring adventure or nothing at all.
+- ⚡ Fun fact **Life is either a daring adventure or nothing at all**
+
+- 📝 I regularly write articles on **[https://www.linkedin.com/in/mohamed-zidane-8884b7264/](https://www.linkedin.com/in/mohamed-zidane-8884b7264/)**
 
 <br>
 
@@ -77,6 +79,8 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b757f08684d4442218bd04f3bb04cc0e142d0551619c678ff44304027085bb47/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -93,6 +97,7 @@ Here are some ideas to get you started:
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="qt" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg"
@@ -100,11 +105,10 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedZidane11&show_icons=true&theme=radical"
-    alt="MohamedZidane11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZidane11&" alt="MohamedZidane11" /></p>
 
-<br>
-
+<!--
+<br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZidane11&layout=pie)](https://github.com/MohamedZidane11/MohamedZidane11)
 
 <br>
@@ -113,4 +117,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedZidane11&repo=employee-management-system)](https://github.com/MohamedZidane11/employee-management-system)
 <br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZidane11&theme=monokai&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="MohamedZidane11" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZidane11&theme=monokai&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="MohamedZidane11" /></p> -->
